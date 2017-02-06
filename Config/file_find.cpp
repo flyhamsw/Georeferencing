@@ -130,7 +130,7 @@ void SimATConfig()
 
 void KLTConfig()
 {
-	cout << "kLT Config 파일 생성" << endl;
+	cout << "kLT Config 파일 생성" << endl;//
 	ofstream config;
 	config.open("Input\\KLTConfigModel.txt");
 
